@@ -1,0 +1,3 @@
+Created [result.json](./result.json) and [notes.md](./notes.md).
+
+Recorded 304 devices across four sheets, with coordinates, room assignments, and reconciled counts. Notes document assumptions and uncertain room boundaries.

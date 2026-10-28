@@ -1,0 +1,467 @@
+{
+ "text": "{\"devices\":[{\"type\":\"receptacle\",\"x\":0.254,\"y\":0.132,\"room\":\"Bedroom 1\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.032,\"y\":0.199,\"room\":\"Bedroom 1\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.274,\"y\":0.271,\"room\":\"Bedroom 1\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.032,\"y\":0.433,\"room\":\"Bedroom 1\",\"confidence\":0.8},{\"type\":\"light_wall\",\"x\":0.16,\"y\":0.338,\"room\":\"Bedroom 1\",\"confidence\":0.6,\"note\":\"High efficacy light fixture\"},{\"type\":\"switch\",\"x\":0.204,\"y\":0.469,\"room\":\"Bedroom 1\",\"confidence\":0.8},{\"type\":\"smoke_detector\",\"x\":0.212,\"y\":0.437,\"room\":\"Bedroom 1\",\"confidence\":0.85},{\"type\":\"light_recessed\",\"x\":0.364,\"y\":0.236,\"room\":\"Bathroom\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.426,\"y\":0.316,\"room\":\"Bathroom\",\"confidence\":0.7},{\"type\":\"exhaust_fan\",\"x\":0.364,\"y\":0.374,\"room\":\"Bathroom\",\"confidence\":0.7},{\"type\":\"switch_vacancy\",\"x\":0.368,\"y\":0.399,\"room\":\"Bathroom\",\"confidence\":0.7},{\"type\":\"switch\",\"x\":0.376,\"y\":0.399,\"room\":\"Bathroom\",\"confidence\":0.6},{\"type\":\"receptacle\",\"x\":0.357,\"y\":0.396,\"room\":\"Bathroom\",\"confidence\":0.5},{\"type\":\"light_recessed\",\"x\":0.531,\"y\":0.23,\"room\":\"Kitchen\",\"confidence\":0.85},{\"type\":\"light_recessed\",\"x\":0.603,\"y\":0.23,\"room\":\"Kitchen\",\"confidence\":0.85},{\"type\":\"light_recessed\",\"x\":0.531,\"y\":0.364,\"room\":\"Kitchen\",\"confidence\":0.85},{\"type\":\"light_recessed\",\"x\":0.603,\"y\":0.364,\"room\":\"Kitchen\",\"confidence\":0.85},{\"type\":\"light_recessed\",\"x\":0.531,\"y\":0.475,\"room\":\"Kitchen\",\"confidence\":0.75},{\"type\":\"light_recessed\",\"x\":0.65,\"y\":0.475,\"room\":\"Kitchen\",\"confidence\":0.75},{\"type\":\"receptacle\",\"x\":0.469,\"y\":0.132,\"room\":\"Kitchen\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.57,\"y\":0.132,\"room\":\"Kitchen\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.678,\"y\":0.204,\"room\":\"Kitchen\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.678,\"y\":0.308,\"room\":\"Kitchen\",\"confidence\":0.75},{\"type\":\"receptacle\",\"x\":0.678,\"y\":0.375,\"room\":\"Kitchen\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.451,\"y\":0.375,\"room\":\"Kitchen\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.67,\"y\":0.419,\"room\":\"Kitchen\",\"confidence\":0.65},{\"type\":\"other\",\"note\":\"Garbage disposal switch ($ G.D)\",\"x\":0.607,\"y\":0.399,\"room\":\"Kitchen\",\"confidence\":0.75},{\"type\":\"switch\",\"x\":0.613,\"y\":0.419,\"room\":\"Kitchen\",\"confidence\":0.75},{\"type\":\"light_recessed\",\"x\":0.756,\"y\":0.196,\"room\":\"Dining\",\"confidence\":0.85},{\"type\":\"light_recessed\",\"x\":0.9,\"y\":0.196,\"room\":\"Dining\",\"confidence\":0.85},{\"type\":\"light_recessed\",\"x\":0.756,\"y\":0.338,\"room\":\"Dining\",\"confidence\":0.85},{\"type\":\"light_recessed\",\"x\":0.9,\"y\":0.341,\"room\":\"Dining\",\"confidence\":0.85},{\"type\":\"light_recessed\",\"x\":0.771,\"y\":0.475,\"room\":\"Dining\",\"confidence\":0.75},{\"type\":\"light_recessed\",\"x\":0.89,\"y\":0.475,\"room\":\"Dining\",\"confidence\":0.75},{\"type\":\"receptacle\",\"x\":0.755,\"y\":0.132,\"room\":\"Dining\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.9,\"y\":0.132,\"room\":\"Dining\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.953,\"y\":0.199,\"room\":\"Dining\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.953,\"y\":0.403,\"room\":\"Dining\",\"confidence\":0.8},{\"type\":\"switch\",\"x\":0.953,\"y\":0.531,\"room\":\"Living Room\",\"confidence\":0.7},{\"type\":\"switch\",\"x\":0.958,\"y\":0.531,\"room\":\"Living Room\",\"confidence\":0.7},{\"type\":\"light_wall_exterior\",\"x\":0.98,\"y\":0.539,\"room\":\"Exterior\",\"confidence\":0.7},{\"type\":\"receptacle\",\"x\":0.953,\"y\":0.548,\"room\":\"Living Room\",\"confidence\":0.75},{\"type\":\"smoke_detector\",\"x\":0.311,\"y\":0.562,\"room\":\"Hallway\",\"confidence\":0.85},{\"type\":\"other\",\"note\":\"Carbon monoxide alarm (C.O)\",\"x\":0.339,\"y\":0.562,\"room\":\"Hallway\",\"confidence\":0.8},{\"type\":\"switch\",\"x\":0.204,\"y\":0.625,\"room\":\"Bedroom 2\",\"confidence\":0.75},{\"type\":\"switch\",\"x\":0.352,\"y\":0.665,\"room\":\"Bedroom 3\",\"confidence\":0.7},{\"type\":\"smoke_detector\",\"x\":0.198,\"y\":0.651,\"room\":\"Bedroom 2\",\"confidence\":0.85},{\"type\":\"light_wall\",\"x\":0.148,\"y\":0.786,\"room\":\"Bedroom 2\",\"confidence\":0.6,\"note\":\"High efficacy light fixture\"},{\"type\":\"receptacle\",\"x\":0.032,\"y\":0.665,\"room\":\"Bedroom 2\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.274,\"y\":0.79,\"room\":\"Bedroom 2\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.032,\"y\":0.899,\"room\":\"Bedroom 2\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.049,\"y\":0.964,\"room\":\"Bedroom 2\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.256,\"y\":0.964,\"room\":\"Bedroom 2\",\"confidence\":0.8},{\"type\":\"smoke_detector\",\"x\":0.361,\"y\":0.712,\"room\":\"Bedroom 3\",\"confidence\":0.85},{\"type\":\"light_wall\",\"x\":0.414,\"y\":0.832,\"room\":\"Bedroom 3\",\"confidence\":0.6,\"note\":\"High efficacy light fixture\"},{\"type\":\"receptacle\",\"x\":0.295,\"y\":0.814,\"room\":\"Bedroom 3\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.538,\"y\":0.79,\"room\":\"Bedroom 3\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.513,\"y\":0.964,\"room\":\"Bedroom 3\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.559,\"y\":0.729,\"room\":\"Living Room\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.559,\"y\":0.942,\"room\":\"Living Room\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.708,\"y\":0.964,\"room\":\"Living Room\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.9,\"y\":0.964,\"room\":\"Living Room\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.953,\"y\":0.666,\"room\":\"Living Room\",\"confidence\":0.8},{\"type\":\"receptacle\",\"x\":0.953,\"y\":0.84,\"room\":\"Living Room\",\"confidence\":0.8}]}",
+ "model": "claude-opus-5-5",
+ "backend": "cli",
+ "seconds": 39.7,
+ "cost_usd": 0.3371898,
+ "replayed": false,
+ "input_tokens": 104283,
+ "output_tokens": 4518,
+ "data": {
+  "devices": [
+   {
+    "type": "receptacle",
+    "x": 0.254,
+    "y": 0.132,
+    "room": "Bedroom 1",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.032,
+    "y": 0.199,
+    "room": "Bedroom 1",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.274,
+    "y": 0.271,
+    "room": "Bedroom 1",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.032,
+    "y": 0.433,
+    "room": "Bedroom 1",
+    "confidence": 0.8
+   },
+   {
+    "type": "light_wall",
+    "x": 0.16,
+    "y": 0.338,
+    "room": "Bedroom 1",
+    "confidence": 0.6,
+    "note": "High efficacy light fixture"
+   },
+   {
+    "type": "switch",
+    "x": 0.204,
+    "y": 0.469,
+    "room": "Bedroom 1",
+    "confidence": 0.8
+   },
+   {
+    "type": "smoke_detector",
+    "x": 0.212,
+    "y": 0.437,
+    "room": "Bedroom 1",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.364,
+    "y": 0.236,
+    "room": "Bathroom",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.426,
+    "y": 0.316,
+    "room": "Bathroom",
+    "confidence": 0.7
+   },
+   {
+    "type": "exhaust_fan",
+    "x": 0.364,
+    "y": 0.374,
+    "room": "Bathroom",
+    "confidence": 0.7
+   },
+   {
+    "type": "switch_vacancy",
+    "x": 0.368,
+    "y": 0.399,
+    "room": "Bathroom",
+    "confidence": 0.7
+   },
+   {
+    "type": "switch",
+    "x": 0.376,
+    "y": 0.399,
+    "room": "Bathroom",
+    "confidence": 0.6
+   },
+   {
+    "type": "receptacle",
+    "x": 0.357,
+    "y": 0.396,
+    "room": "Bathroom",
+    "confidence": 0.5
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.531,
+    "y": 0.23,
+    "room": "Kitchen",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.603,
+    "y": 0.23,
+    "room": "Kitchen",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.531,
+    "y": 0.364,
+    "room": "Kitchen",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.603,
+    "y": 0.364,
+    "room": "Kitchen",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.531,
+    "y": 0.475,
+    "room": "Kitchen",
+    "confidence": 0.75
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.65,
+    "y": 0.475,
+    "room": "Kitchen",
+    "confidence": 0.75
+   },
+   {
+    "type": "receptacle",
+    "x": 0.469,
+    "y": 0.132,
+    "room": "Kitchen",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.57,
+    "y": 0.132,
+    "room": "Kitchen",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.678,
+    "y": 0.204,
+    "room": "Kitchen",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.678,
+    "y": 0.308,
+    "room": "Kitchen",
+    "confidence": 0.75
+   },
+   {
+    "type": "receptacle",
+    "x": 0.678,
+    "y": 0.375,
+    "room": "Kitchen",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.451,
+    "y": 0.375,
+    "room": "Kitchen",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.67,
+    "y": 0.419,
+    "room": "Kitchen",
+    "confidence": 0.65
+   },
+   {
+    "type": "other",
+    "note": "Garbage disposal switch ($ G.D)",
+    "x": 0.607,
+    "y": 0.399,
+    "room": "Kitchen",
+    "confidence": 0.75
+   },
+   {
+    "type": "switch",
+    "x": 0.613,
+    "y": 0.419,
+    "room": "Kitchen",
+    "confidence": 0.75
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.756,
+    "y": 0.196,
+    "room": "Dining",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.9,
+    "y": 0.196,
+    "room": "Dining",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.756,
+    "y": 0.338,
+    "room": "Dining",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.9,
+    "y": 0.341,
+    "room": "Dining",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.771,
+    "y": 0.475,
+    "room": "Dining",
+    "confidence": 0.75
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.89,
+    "y": 0.475,
+    "room": "Dining",
+    "confidence": 0.75
+   },
+   {
+    "type": "receptacle",
+    "x": 0.755,
+    "y": 0.132,
+    "room": "Dining",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.9,
+    "y": 0.132,
+    "room": "Dining",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.953,
+    "y": 0.199,
+    "room": "Dining",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.953,
+    "y": 0.403,
+    "room": "Dining",
+    "confidence": 0.8
+   },
+   {
+    "type": "switch",
+    "x": 0.953,
+    "y": 0.531,
+    "room": "Living Room",
+    "confidence": 0.7
+   },
+   {
+    "type": "switch",
+    "x": 0.958,
+    "y": 0.531,
+    "room": "Living Room",
+    "confidence": 0.7
+   },
+   {
+    "type": "light_wall_exterior",
+    "x": 0.98,
+    "y": 0.539,
+    "room": "Exterior",
+    "confidence": 0.7
+   },
+   {
+    "type": "receptacle",
+    "x": 0.953,
+    "y": 0.548,
+    "room": "Living Room",
+    "confidence": 0.75
+   },
+   {
+    "type": "smoke_detector",
+    "x": 0.311,
+    "y": 0.562,
+    "room": "Hallway",
+    "confidence": 0.85
+   },
+   {
+    "type": "other",
+    "note": "Carbon monoxide alarm (C.O)",
+    "x": 0.339,
+    "y": 0.562,
+    "room": "Hallway",
+    "confidence": 0.8
+   },
+   {
+    "type": "switch",
+    "x": 0.204,
+    "y": 0.625,
+    "room": "Bedroom 2",
+    "confidence": 0.75
+   },
+   {
+    "type": "switch",
+    "x": 0.352,
+    "y": 0.665,
+    "room": "Bedroom 3",
+    "confidence": 0.7
+   },
+   {
+    "type": "smoke_detector",
+    "x": 0.198,
+    "y": 0.651,
+    "room": "Bedroom 2",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_wall",
+    "x": 0.148,
+    "y": 0.786,
+    "room": "Bedroom 2",
+    "confidence": 0.6,
+    "note": "High efficacy light fixture"
+   },
+   {
+    "type": "receptacle",
+    "x": 0.032,
+    "y": 0.665,
+    "room": "Bedroom 2",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.274,
+    "y": 0.79,
+    "room": "Bedroom 2",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.032,
+    "y": 0.899,
+    "room": "Bedroom 2",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.049,
+    "y": 0.964,
+    "room": "Bedroom 2",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.256,
+    "y": 0.964,
+    "room": "Bedroom 2",
+    "confidence": 0.8
+   },
+   {
+    "type": "smoke_detector",
+    "x": 0.361,
+    "y": 0.712,
+    "room": "Bedroom 3",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_wall",
+    "x": 0.414,
+    "y": 0.832,
+    "room": "Bedroom 3",
+    "confidence": 0.6,
+    "note": "High efficacy light fixture"
+   },
+   {
+    "type": "receptacle",
+    "x": 0.295,
+    "y": 0.814,
+    "room": "Bedroom 3",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.538,
+    "y": 0.79,
+    "room": "Bedroom 3",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.513,
+    "y": 0.964,
+    "room": "Bedroom 3",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.559,
+    "y": 0.729,
+    "room": "Living Room",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.559,
+    "y": 0.942,
+    "room": "Living Room",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.708,
+    "y": 0.964,
+    "room": "Living Room",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.9,
+    "y": 0.964,
+    "room": "Living Room",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.953,
+    "y": 0.666,
+    "room": "Living Room",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle",
+    "x": 0.953,
+    "y": 0.84,
+    "room": "Living Room",
+    "confidence": 0.8
+   }
+  ]
+ }
+}

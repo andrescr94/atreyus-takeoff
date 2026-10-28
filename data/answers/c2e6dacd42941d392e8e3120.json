@@ -1,0 +1,27 @@
+{
+ "text": "{\"is_electrical_plan\":false,\"problem\":\"Text memo page, not a drawing. It is blank except for one line at the top left: \\\"MEMO: please review the attached invoice. A1-111\\\". It has no floor plan, no electrical symbols, no legend and no title block. \\\"A1-111\\\" is part of the memo text, not a sheet number.\",\"sheet_id\":\"\",\"plan\":{\"x0\":0,\"y0\":0,\"x1\":0,\"y1\":0},\"legend\":{\"x0\":0,\"y0\":0,\"x1\":0,\"y1\":0}}",
+ "model": "claude-opus-5-5",
+ "backend": "cli",
+ "seconds": 8.8,
+ "cost_usd": 0.18669619999999998,
+ "replayed": false,
+ "input_tokens": 100712,
+ "output_tokens": 493,
+ "data": {
+  "is_electrical_plan": false,
+  "problem": "Text memo page, not a drawing. It is blank except for one line at the top left: \"MEMO: please review the attached invoice. A1-111\". It has no floor plan, no electrical symbols, no legend and no title block. \"A1-111\" is part of the memo text, not a sheet number.",
+  "sheet_id": "",
+  "plan": {
+   "x0": 0,
+   "y0": 0,
+   "x1": 0,
+   "y1": 0
+  },
+  "legend": {
+   "x0": 0,
+   "y0": 0,
+   "x1": 0,
+   "y1": 0
+  }
+ }
+}

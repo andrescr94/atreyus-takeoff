@@ -1,0 +1,3 @@
+Created `result.json` and `notes.md`.
+
+Recorded 304 devices across all four sheets, with room counts and sheet totals checked against the device lists. Assumptions and uncertain room assignments are documented in `notes.md`.

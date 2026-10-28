@@ -1,0 +1,16 @@
+{
+ "agent": "claude",
+ "model": "claude-opus-5-5",
+ "variant": "scan",
+ "started": "2026-10-28T12:00:41-06:00",
+ "seconds": 555,
+ "exit_code": 0,
+ "result_written": true,
+ "turns": 68,
+ "cost_usd": 3.2782342000000027,
+ "input_tokens": 6061840,
+ "output_tokens": 46607,
+ "models": [
+  "claude-opus-5-5"
+ ]
+}

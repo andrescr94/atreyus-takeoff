@@ -1,0 +1,27 @@
+{
+ "text": "{\"is_electrical_plan\":false,\"problem\":\"The image contains only uniform gray random noise (static). It has no drawing, title block, floor plan, or legend, so it is not a readable construction document. The PDF may have rendered incorrectly or the file may be corrupt.\",\"sheet_id\":\"\",\"plan\":{\"x0\":0,\"y0\":0,\"x1\":0,\"y1\":0},\"legend\":{\"x0\":0,\"y0\":0,\"x1\":0,\"y1\":0}}",
+ "model": "claude-haiku-5-5,claude-opus-5-5",
+ "backend": "cli",
+ "seconds": 10.1,
+ "cost_usd": 0.2110095,
+ "replayed": false,
+ "input_tokens": 72815,
+ "output_tokens": 355,
+ "data": {
+  "is_electrical_plan": false,
+  "problem": "The image contains only uniform gray random noise (static). It has no drawing, title block, floor plan, or legend, so it is not a readable construction document. The PDF may have rendered incorrectly or the file may be corrupt.",
+  "sheet_id": "",
+  "plan": {
+   "x0": 0,
+   "y0": 0,
+   "x1": 0,
+   "y1": 0
+  },
+  "legend": {
+   "x0": 0,
+   "y0": 0,
+   "x1": 0,
+   "y1": 0
+  }
+ }
+}

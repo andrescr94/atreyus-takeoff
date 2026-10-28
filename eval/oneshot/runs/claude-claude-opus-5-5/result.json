@@ -1,0 +1,2183 @@
+{
+ "sheets": [
+  {
+   "sheet": "A1-111",
+   "page": 1,
+   "devices": [
+    {
+     "type": "receptacle_gfi",
+     "x": 975,
+     "y": 241.8,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_gfi_dw",
+     "x": 975,
+     "y": 279.6,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 975,
+     "y": 294,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_half_hot",
+     "x": 975,
+     "y": 324.4,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "switch",
+     "x": 975,
+     "y": 354.4,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 975,
+     "y": 368.9,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "switch_fan",
+     "x": 975,
+     "y": 388.9,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_gfi_mw",
+     "x": 975,
+     "y": 402.7,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "exhaust_fan",
+     "x": 989.6,
+     "y": 419.6,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 975,
+     "y": 432.9,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 972.9,
+     "y": 464,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1004.4,
+     "y": 317.8,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1004.4,
+     "y": 386.7,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1004.4,
+     "y": 456.7,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1120.4,
+     "y": 324.9,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1120.4,
+     "y": 408.4,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "smoke_co",
+     "x": 1128.2,
+     "y": 374.4,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1081,
+     "y": 238.2,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 1081,
+     "y": 252.9,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 1081,
+     "y": 262.2,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle",
+     "x": 1145.6,
+     "y": 287.1,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1185.6,
+     "y": 294.4,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1185.6,
+     "y": 395.1,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1121.8,
+     "y": 225.1,
+     "room": "LNDRY"
+    },
+    {
+     "type": "iaq_fan",
+     "x": 1145.1,
+     "y": 258.2,
+     "room": "LNDRY"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 1167.8,
+     "y": 224,
+     "room": "LNDRY"
+    },
+    {
+     "type": "switch_fan",
+     "x": 1206.7,
+     "y": 276,
+     "room": "BATH"
+    },
+    {
+     "type": "switch_vacancy",
+     "x": 1206.7,
+     "y": 286.2,
+     "room": "BATH"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 1206.7,
+     "y": 297.8,
+     "room": "BATH"
+    },
+    {
+     "type": "exhaust_fan",
+     "x": 1258.9,
+     "y": 272.2,
+     "room": "BATH"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1258.9,
+     "y": 296.2,
+     "room": "BATH"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1301.1,
+     "y": 276,
+     "room": "BATH"
+    },
+    {
+     "type": "light_wall",
+     "x": 1335.4,
+     "y": 291.8,
+     "room": "BATH"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1120.4,
+     "y": 521.8,
+     "room": "LIVING"
+    },
+    {
+     "type": "light_wall",
+     "x": 1117.1,
+     "y": 435.1,
+     "room": "LIVING"
+    },
+    {
+     "type": "switch",
+     "x": 1138.9,
+     "y": 443.3,
+     "room": "LIVING"
+    },
+    {
+     "type": "switch_sensor",
+     "x": 1078.4,
+     "y": 583.3,
+     "room": "LIVING"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 1087.1,
+     "y": 583.3,
+     "room": "LIVING"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 1095.6,
+     "y": 583.3,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1145.6,
+     "y": 583.3,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1185.1,
+     "y": 528.9,
+     "room": "LIVING"
+    },
+    {
+     "type": "smoke_detector",
+     "x": 1228.9,
+     "y": 446,
+     "room": "BEDROOM / STUDIO"
+    },
+    {
+     "type": "switch_fan",
+     "x": 1206.7,
+     "y": 484.9,
+     "room": "BEDROOM / STUDIO"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 1206.7,
+     "y": 492.9,
+     "room": "BEDROOM / STUDIO"
+    },
+    {
+     "type": "ceiling_fan",
+     "x": 1276.2,
+     "y": 505.6,
+     "room": "BEDROOM / STUDIO"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1210,
+     "y": 516,
+     "room": "BEDROOM / STUDIO"
+    },
+    {
+     "type": "receptacle",
+     "x": 1210,
+     "y": 558.2,
+     "room": "BEDROOM / STUDIO"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1220.7,
+     "y": 582.7,
+     "room": "BEDROOM / STUDIO"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1334,
+     "y": 440.4,
+     "room": "BEDROOM / STUDIO"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1334,
+     "y": 572.2,
+     "room": "BEDROOM / STUDIO"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 1151,
+     "y": 194.4,
+     "room": "Exterior"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 1322.2,
+     "y": 224,
+     "room": "Exterior"
+    },
+    {
+     "type": "light_wall_exterior",
+     "x": 1082.9,
+     "y": 608.9,
+     "room": "Exterior"
+    },
+    {
+     "type": "receptacle_gfi_wp",
+     "x": 995.1,
+     "y": 610,
+     "room": "Exterior"
+    },
+    {
+     "type": "receptacle_gfi_wp",
+     "x": 1334,
+     "y": 610.7,
+     "room": "Exterior"
+    }
+   ],
+   "counts": {
+    "KITCHEN / DINING": {
+     "exhaust_fan": 1,
+     "light_recessed": 5,
+     "receptacle": 1,
+     "receptacle_240v": 1,
+     "receptacle_afi": 3,
+     "receptacle_gfi": 4,
+     "receptacle_gfi_dw": 1,
+     "receptacle_gfi_mw": 1,
+     "receptacle_half_hot": 1,
+     "smoke_co": 1,
+     "switch": 1,
+     "switch_3way_dimmer": 2,
+     "switch_fan": 1
+    },
+    "TOTAL": {
+     "ceiling_fan": 1,
+     "exhaust_fan": 2,
+     "iaq_fan": 1,
+     "light_recessed": 7,
+     "light_wall": 2,
+     "light_wall_exterior": 1,
+     "receptacle": 2,
+     "receptacle_240v": 4,
+     "receptacle_afi": 9,
+     "receptacle_gfi": 6,
+     "receptacle_gfi_dw": 1,
+     "receptacle_gfi_mw": 1,
+     "receptacle_gfi_wp": 2,
+     "receptacle_half_hot": 1,
+     "smoke_co": 1,
+     "smoke_detector": 1,
+     "switch": 2,
+     "switch_3way_dimmer": 4,
+     "switch_dimmer": 2,
+     "switch_fan": 3,
+     "switch_sensor": 1,
+     "switch_vacancy": 1
+    },
+    "LNDRY": {
+     "iaq_fan": 1,
+     "receptacle_240v": 1,
+     "receptacle_gfi": 1
+    },
+    "BATH": {
+     "exhaust_fan": 1,
+     "light_recessed": 1,
+     "light_wall": 1,
+     "receptacle_gfi": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1,
+     "switch_vacancy": 1
+    },
+    "LIVING": {
+     "light_recessed": 1,
+     "light_wall": 1,
+     "receptacle_afi": 2,
+     "switch": 1,
+     "switch_3way_dimmer": 2,
+     "switch_sensor": 1
+    },
+    "BEDROOM / STUDIO": {
+     "ceiling_fan": 1,
+     "receptacle": 1,
+     "receptacle_afi": 4,
+     "smoke_detector": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1
+    },
+    "Exterior": {
+     "light_wall_exterior": 1,
+     "receptacle_240v": 2,
+     "receptacle_gfi_wp": 2
+    }
+   }
+  },
+  {
+   "sheet": "A2-111",
+   "page": 2,
+   "devices": [
+    {
+     "type": "receptacle_afi",
+     "x": 406.2,
+     "y": 255.5,
+     "room": "BED 1"
+    },
+    {
+     "type": "smoke_detector",
+     "x": 538.8,
+     "y": 268.8,
+     "room": "BED 1"
+    },
+    {
+     "type": "ceiling_fan",
+     "x": 470.8,
+     "y": 324.2,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 406.2,
+     "y": 389.5,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 535.5,
+     "y": 417,
+     "room": "BED 1"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 562,
+     "y": 304.5,
+     "room": "BED 1"
+    },
+    {
+     "type": "switch_fan",
+     "x": 562,
+     "y": 312.5,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 558.2,
+     "y": 343.2,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle",
+     "x": 558.2,
+     "y": 386.2,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 607.5,
+     "y": 202,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 634.5,
+     "y": 202,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi_mw",
+     "x": 652.5,
+     "y": 202,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "exhaust_fan",
+     "x": 664.2,
+     "y": 213,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 678.8,
+     "y": 202,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "switch_fan",
+     "x": 694.5,
+     "y": 200.5,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 706.2,
+     "y": 202,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 769.5,
+     "y": 201.2,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi_dw",
+     "x": 787.5,
+     "y": 201.2,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "light_recessed",
+     "x": 665.8,
+     "y": 229.5,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "light_recessed",
+     "x": 758.2,
+     "y": 229.5,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "light_recessed",
+     "x": 638.2,
+     "y": 288,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "light_recessed",
+     "x": 758.2,
+     "y": 288,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 841.2,
+     "y": 201.2,
+     "room": "DINING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 850.8,
+     "y": 228.8,
+     "room": "DINING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 877.5,
+     "y": 286.2,
+     "room": "DINING"
+    },
+    {
+     "type": "smoke_co",
+     "x": 811.2,
+     "y": 297.5,
+     "room": "DINING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 873.8,
+     "y": 317.5,
+     "room": "DINING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 902.5,
+     "y": 237,
+     "room": "DINING"
+    },
+    {
+     "type": "switch",
+     "x": 902.9,
+     "y": 247.3,
+     "room": "DINING"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 902.9,
+     "y": 256.8,
+     "room": "DINING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 584.5,
+     "y": 304.5,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle",
+     "x": 584.5,
+     "y": 337.5,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 584.5,
+     "y": 409.2,
+     "room": "LIVING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 638.2,
+     "y": 364.5,
+     "room": "LIVING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 758.2,
+     "y": 364.5,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 715,
+     "y": 416.8,
+     "room": "LIVING"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 733,
+     "y": 416.8,
+     "room": "LIVING"
+    },
+    {
+     "type": "switch_sensor",
+     "x": 743.8,
+     "y": 416.8,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 953.2,
+     "y": 201.2,
+     "room": "LNDRY"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 980,
+     "y": 201.2,
+     "room": "LNDRY"
+    },
+    {
+     "type": "iaq_fan",
+     "x": 966.2,
+     "y": 235.8,
+     "room": "LNDRY"
+    },
+    {
+     "type": "light_recessed",
+     "x": 970,
+     "y": 286.2,
+     "room": "HALLWAY"
+    },
+    {
+     "type": "light_wall",
+     "x": 916.2,
+     "y": 301.2,
+     "room": "HALLWAY"
+    },
+    {
+     "type": "switch",
+     "x": 938,
+     "y": 307.5,
+     "room": "HALLWAY"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 884.5,
+     "y": 340,
+     "room": "BATH"
+    },
+    {
+     "type": "switch_fan",
+     "x": 893.8,
+     "y": 340,
+     "room": "BATH"
+    },
+    {
+     "type": "switch_vacancy",
+     "x": 903.2,
+     "y": 340,
+     "room": "BATH"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 827,
+     "y": 368.8,
+     "room": "BATH"
+    },
+    {
+     "type": "light_recessed",
+     "x": 878,
+     "y": 380,
+     "room": "BATH"
+    },
+    {
+     "type": "exhaust_fan",
+     "x": 939.5,
+     "y": 396.2,
+     "room": "BATH"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 830.5,
+     "y": 416.2,
+     "room": "BATH"
+    },
+    {
+     "type": "light_recessed",
+     "x": 995.5,
+     "y": 380,
+     "room": "BATH"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1071.2,
+     "y": 245.8,
+     "room": "BED 2"
+    },
+    {
+     "type": "smoke_detector",
+     "x": 1055.5,
+     "y": 286.2,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1194.5,
+     "y": 257,
+     "room": "BED 2"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 1033.8,
+     "y": 329.2,
+     "room": "BED 2"
+    },
+    {
+     "type": "switch_fan",
+     "x": 1033.8,
+     "y": 337.5,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1034.5,
+     "y": 352.5,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle",
+     "x": 1034.5,
+     "y": 386.2,
+     "room": "BED 2"
+    },
+    {
+     "type": "ceiling_fan",
+     "x": 1117.5,
+     "y": 324.2,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1055.5,
+     "y": 417,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1180,
+     "y": 417,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 1050,
+     "y": 220.8,
+     "room": "Exterior"
+    },
+    {
+     "type": "receptacle_gfi_wp",
+     "x": 1185,
+     "y": 172.5,
+     "room": "Exterior"
+    },
+    {
+     "type": "receptacle_gfi_wp",
+     "x": 706.2,
+     "y": 444.5,
+     "room": "Exterior"
+    },
+    {
+     "type": "light_wall_exterior",
+     "x": 730,
+     "y": 443,
+     "room": "Exterior"
+    }
+   ],
+   "counts": {
+    "BED 1": {
+     "ceiling_fan": 1,
+     "receptacle": 1,
+     "receptacle_afi": 4,
+     "smoke_detector": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1
+    },
+    "TOTAL": {
+     "ceiling_fan": 2,
+     "exhaust_fan": 2,
+     "iaq_fan": 1,
+     "light_recessed": 11,
+     "light_wall": 1,
+     "light_wall_exterior": 1,
+     "receptacle": 3,
+     "receptacle_240v": 3,
+     "receptacle_afi": 15,
+     "receptacle_gfi": 7,
+     "receptacle_gfi_dw": 1,
+     "receptacle_gfi_mw": 1,
+     "receptacle_gfi_wp": 2,
+     "smoke_co": 1,
+     "smoke_detector": 2,
+     "switch": 2,
+     "switch_3way_dimmer": 2,
+     "switch_dimmer": 3,
+     "switch_fan": 4,
+     "switch_sensor": 1,
+     "switch_vacancy": 1
+    },
+    "KITCHEN": {
+     "exhaust_fan": 1,
+     "light_recessed": 4,
+     "receptacle_240v": 1,
+     "receptacle_gfi": 4,
+     "receptacle_gfi_dw": 1,
+     "receptacle_gfi_mw": 1,
+     "switch_fan": 1
+    },
+    "DINING": {
+     "light_recessed": 2,
+     "receptacle_afi": 2,
+     "receptacle_gfi": 1,
+     "smoke_co": 1,
+     "switch": 1,
+     "switch_3way_dimmer": 1
+    },
+    "LIVING": {
+     "light_recessed": 2,
+     "receptacle": 1,
+     "receptacle_afi": 3,
+     "switch_3way_dimmer": 1,
+     "switch_sensor": 1
+    },
+    "LNDRY": {
+     "iaq_fan": 1,
+     "receptacle_240v": 1,
+     "receptacle_gfi": 1
+    },
+    "HALLWAY": {
+     "light_recessed": 1,
+     "light_wall": 1,
+     "switch": 1
+    },
+    "BATH": {
+     "exhaust_fan": 1,
+     "light_recessed": 2,
+     "receptacle_afi": 1,
+     "receptacle_gfi": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1,
+     "switch_vacancy": 1
+    },
+    "BED 2": {
+     "ceiling_fan": 1,
+     "receptacle": 1,
+     "receptacle_afi": 5,
+     "smoke_detector": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1
+    },
+    "Exterior": {
+     "light_wall_exterior": 1,
+     "receptacle_240v": 1,
+     "receptacle_gfi_wp": 2
+    }
+   }
+  },
+  {
+   "sheet": "A3-111",
+   "page": 3,
+   "devices": [
+    {
+     "type": "receptacle_gfi_wp",
+     "x": 915.6,
+     "y": 89.4,
+     "room": "Exterior"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 1096.2,
+     "y": 89.4,
+     "room": "Exterior"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 1312.2,
+     "y": 441.7,
+     "room": "Exterior"
+    },
+    {
+     "type": "light_wall_exterior",
+     "x": 1074.4,
+     "y": 674.6,
+     "room": "Exterior"
+    },
+    {
+     "type": "light_wall_exterior",
+     "x": 1162.9,
+     "y": 674.6,
+     "room": "Exterior"
+    },
+    {
+     "type": "receptacle_gfi_wp",
+     "x": 1193.3,
+     "y": 675,
+     "room": "Exterior"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 909.6,
+     "y": 118.8,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1039.3,
+     "y": 118.8,
+     "room": "BED 2"
+    },
+    {
+     "type": "ceiling_fan",
+     "x": 970,
+     "y": 189.4,
+     "room": "BED 2"
+    },
+    {
+     "type": "switch_fan",
+     "x": 1054.4,
+     "y": 219.4,
+     "room": "BED 2"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 1054.4,
+     "y": 226.6,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 894.4,
+     "y": 263.4,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle",
+     "x": 926.7,
+     "y": 277.7,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 994.4,
+     "y": 277.7,
+     "room": "BED 2"
+    },
+    {
+     "type": "smoke_detector",
+     "x": 1036.7,
+     "y": 254.6,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1246.7,
+     "y": 118.8,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1342.9,
+     "y": 128.3,
+     "room": "BED 1"
+    },
+    {
+     "type": "ceiling_fan",
+     "x": 1253.3,
+     "y": 189.4,
+     "room": "BED 1"
+    },
+    {
+     "type": "switch_fan",
+     "x": 1166.7,
+     "y": 211.7,
+     "room": "BED 1"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 1166.7,
+     "y": 220.6,
+     "room": "BED 1"
+    },
+    {
+     "type": "smoke_detector",
+     "x": 1171.1,
+     "y": 254.6,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1275.1,
+     "y": 277.7,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle",
+     "x": 1311.8,
+     "y": 277.7,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1342.9,
+     "y": 263.9,
+     "room": "BED 1"
+    },
+    {
+     "type": "exhaust_fan",
+     "x": 948.9,
+     "y": 317.7,
+     "room": "BATH 2"
+    },
+    {
+     "type": "light_recessed",
+     "x": 910,
+     "y": 334.3,
+     "room": "BATH 2"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1002.7,
+     "y": 374.6,
+     "room": "BATH 2"
+    },
+    {
+     "type": "switch_fan",
+     "x": 1055.6,
+     "y": 351.7,
+     "room": "BATH 2"
+    },
+    {
+     "type": "switch_vacancy",
+     "x": 1055.6,
+     "y": 361.7,
+     "room": "BATH 2"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 1055.6,
+     "y": 374.6,
+     "room": "BATH 2"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 1092.9,
+     "y": 229.4,
+     "room": "HALL"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1104,
+     "y": 255.7,
+     "room": "HALL"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1104,
+     "y": 345.7,
+     "room": "HALL"
+    },
+    {
+     "type": "smoke_co",
+     "x": 1104,
+     "y": 318.3,
+     "room": "HALL"
+    },
+    {
+     "type": "switch",
+     "x": 1108.9,
+     "y": 372.8,
+     "room": "HALL"
+    },
+    {
+     "type": "light_wall",
+     "x": 1099.6,
+     "y": 394.6,
+     "room": "HALL"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1188.2,
+     "y": 326.1,
+     "room": "LNDRY"
+    },
+    {
+     "type": "iaq_fan",
+     "x": 1153.8,
+     "y": 342.8,
+     "room": "LNDRY"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 1188.2,
+     "y": 370.6,
+     "room": "LNDRY"
+    },
+    {
+     "type": "switch_vacancy",
+     "x": 1275.1,
+     "y": 300.6,
+     "room": "BATH 1"
+    },
+    {
+     "type": "switch_fan",
+     "x": 1285.1,
+     "y": 300.6,
+     "room": "BATH 1"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 1295.6,
+     "y": 300.6,
+     "room": "BATH 1"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1311.1,
+     "y": 301.2,
+     "room": "BATH 1"
+    },
+    {
+     "type": "exhaust_fan",
+     "x": 1278.4,
+     "y": 375,
+     "room": "BATH 1"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1251.1,
+     "y": 427.7,
+     "room": "BATH 1"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 928.9,
+     "y": 399,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_gfi_mw",
+     "x": 950,
+     "y": 399,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "exhaust_fan",
+     "x": 965.6,
+     "y": 407.9,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 978.9,
+     "y": 399,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1039.6,
+     "y": 400.6,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "switch_fan",
+     "x": 895.6,
+     "y": 427.7,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_gfi_dw",
+     "x": 897.8,
+     "y": 453.9,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 895.6,
+     "y": 472.1,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_half_hot",
+     "x": 893.5,
+     "y": 507.9,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "switch",
+     "x": 895.6,
+     "y": 537.7,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 895.6,
+     "y": 561.2,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 927.8,
+     "y": 585,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 965.6,
+     "y": 431.7,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 923.3,
+     "y": 472.1,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 985.1,
+     "y": 508.3,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 923.3,
+     "y": 552.8,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 985.6,
+     "y": 604.3,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "smoke_co",
+     "x": 1082.9,
+     "y": 497.9,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1041.6,
+     "y": 646.1,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 1075.6,
+     "y": 648.3,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "switch_sensor",
+     "x": 1086.7,
+     "y": 648.3,
+     "room": "KITCHEN / DINING"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 1141.1,
+     "y": 466.1,
+     "room": "LIVING"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 1151.1,
+     "y": 466.1,
+     "room": "LIVING"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 1160,
+     "y": 466.1,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1179.6,
+     "y": 466.1,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle",
+     "x": 1214,
+     "y": 466.8,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1278.4,
+     "y": 466.8,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1342.9,
+     "y": 482.1,
+     "room": "LIVING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1134.9,
+     "y": 508.3,
+     "room": "LIVING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1284.4,
+     "y": 508.3,
+     "room": "LIVING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1134.9,
+     "y": 604.3,
+     "room": "LIVING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1283.8,
+     "y": 604.3,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1172.2,
+     "y": 646.1,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1342.9,
+     "y": 624.3,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1328.2,
+     "y": 647.2,
+     "room": "LIVING"
+    }
+   ],
+   "counts": {
+    "Exterior": {
+     "light_wall_exterior": 2,
+     "receptacle_240v": 2,
+     "receptacle_gfi_wp": 2
+    },
+    "TOTAL": {
+     "ceiling_fan": 2,
+     "exhaust_fan": 3,
+     "iaq_fan": 1,
+     "light_recessed": 13,
+     "light_wall": 1,
+     "light_wall_exterior": 2,
+     "receptacle": 3,
+     "receptacle_240v": 4,
+     "receptacle_afi": 15,
+     "receptacle_gfi": 7,
+     "receptacle_gfi_dw": 1,
+     "receptacle_gfi_mw": 1,
+     "receptacle_gfi_wp": 2,
+     "receptacle_half_hot": 1,
+     "smoke_co": 2,
+     "smoke_detector": 2,
+     "switch": 2,
+     "switch_3way_dimmer": 6,
+     "switch_dimmer": 4,
+     "switch_fan": 5,
+     "switch_sensor": 1,
+     "switch_vacancy": 2
+    },
+    "BED 2": {
+     "ceiling_fan": 1,
+     "receptacle": 1,
+     "receptacle_afi": 4,
+     "smoke_detector": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1
+    },
+    "BED 1": {
+     "ceiling_fan": 1,
+     "receptacle": 1,
+     "receptacle_afi": 4,
+     "smoke_detector": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1
+    },
+    "BATH 2": {
+     "exhaust_fan": 1,
+     "light_recessed": 1,
+     "receptacle_gfi": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1,
+     "switch_vacancy": 1
+    },
+    "HALL": {
+     "light_recessed": 2,
+     "light_wall": 1,
+     "smoke_co": 1,
+     "switch": 1,
+     "switch_3way_dimmer": 1
+    },
+    "LNDRY": {
+     "iaq_fan": 1,
+     "receptacle_240v": 1,
+     "receptacle_gfi": 1
+    },
+    "BATH 1": {
+     "exhaust_fan": 1,
+     "light_recessed": 1,
+     "receptacle_gfi": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1,
+     "switch_vacancy": 1
+    },
+    "KITCHEN / DINING": {
+     "exhaust_fan": 1,
+     "light_recessed": 5,
+     "receptacle_240v": 1,
+     "receptacle_afi": 1,
+     "receptacle_gfi": 4,
+     "receptacle_gfi_dw": 1,
+     "receptacle_gfi_mw": 1,
+     "receptacle_half_hot": 1,
+     "smoke_co": 1,
+     "switch": 1,
+     "switch_3way_dimmer": 2,
+     "switch_fan": 1,
+     "switch_sensor": 1
+    },
+    "LIVING": {
+     "light_recessed": 4,
+     "receptacle": 1,
+     "receptacle_afi": 6,
+     "switch_3way_dimmer": 3
+    }
+   }
+  },
+  {
+   "sheet": "A4-111",
+   "page": 4,
+   "devices": [
+    {
+     "type": "receptacle_afi",
+     "x": 1075.7,
+     "y": 147,
+     "room": "LIVING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1125.7,
+     "y": 178.9,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1280.5,
+     "y": 126.6,
+     "room": "LIVING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1243,
+     "y": 178.9,
+     "room": "LIVING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1125.7,
+     "y": 250.2,
+     "room": "LIVING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1125.7,
+     "y": 321.8,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1075.7,
+     "y": 335.5,
+     "room": "LIVING"
+    },
+    {
+     "type": "switch_sensor",
+     "x": 1133.6,
+     "y": 360.5,
+     "room": "LIVING"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 1145.7,
+     "y": 360.5,
+     "room": "LIVING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1243,
+     "y": 250.2,
+     "room": "LIVING"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1243,
+     "y": 321.8,
+     "room": "LIVING"
+    },
+    {
+     "type": "smoke_co",
+     "x": 1289.5,
+     "y": 306.4,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1246.4,
+     "y": 358.6,
+     "room": "LIVING"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1364.5,
+     "y": 128.2,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1339.5,
+     "y": 178.9,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_half_hot",
+     "x": 1393.8,
+     "y": 128.5,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "switch",
+     "x": 1419.2,
+     "y": 128.3,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1439.8,
+     "y": 128.2,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi_dw",
+     "x": 1454.5,
+     "y": 128.2,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1492.7,
+     "y": 137.3,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "switch_fan",
+     "x": 1492.7,
+     "y": 150.5,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi_mw",
+     "x": 1492.7,
+     "y": 162.5,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 1492.7,
+     "y": 185,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "exhaust_fan",
+     "x": 1483,
+     "y": 197,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1492.7,
+     "y": 211.4,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1412,
+     "y": 156.1,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1462,
+     "y": 190.9,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1423.4,
+     "y": 216.8,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1339.5,
+     "y": 253.6,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1339.5,
+     "y": 285.5,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1355,
+     "y": 285.5,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1339.5,
+     "y": 321.8,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1492.7,
+     "y": 258.2,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 1458,
+     "y": 299.1,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 1468.2,
+     "y": 299.1,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 1479.1,
+     "y": 299.1,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1423.4,
+     "y": 321.8,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle",
+     "x": 1395,
+     "y": 359.3,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1433,
+     "y": 359.3,
+     "room": "KITCHEN"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1517.7,
+     "y": 229.3,
+     "room": "BATH 2"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 1515.5,
+     "y": 275.2,
+     "room": "BATH 2"
+    },
+    {
+     "type": "switch_vacancy",
+     "x": 1526.1,
+     "y": 275.2,
+     "room": "BATH 2"
+    },
+    {
+     "type": "switch_fan",
+     "x": 1537.5,
+     "y": 275.2,
+     "room": "BATH 2"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1565.5,
+     "y": 190.7,
+     "room": "BATH 2"
+    },
+    {
+     "type": "exhaust_fan",
+     "x": 1580.9,
+     "y": 190.7,
+     "room": "BATH 2"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1643,
+     "y": 126.6,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle",
+     "x": 1615.7,
+     "y": 175.9,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1615.7,
+     "y": 216.8,
+     "room": "BED 2"
+    },
+    {
+     "type": "ceiling_fan",
+     "x": 1710,
+     "y": 208.4,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1792.5,
+     "y": 147.5,
+     "room": "BED 2"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1792.5,
+     "y": 292.3,
+     "room": "BED 2"
+    },
+    {
+     "type": "smoke_detector",
+     "x": 1635,
+     "y": 264.5,
+     "room": "BED 2"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 1663.9,
+     "y": 275.2,
+     "room": "BED 2"
+    },
+    {
+     "type": "switch_fan",
+     "x": 1671.8,
+     "y": 275.2,
+     "room": "BED 2"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1533.6,
+     "y": 321.8,
+     "room": "HALLWAY"
+    },
+    {
+     "type": "light_wall",
+     "x": 1563.9,
+     "y": 320,
+     "room": "HALLWAY"
+    },
+    {
+     "type": "switch",
+     "x": 1585.5,
+     "y": 328,
+     "room": "HALLWAY"
+    },
+    {
+     "type": "smoke_co",
+     "x": 1607.5,
+     "y": 317.7,
+     "room": "HALLWAY"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1630.5,
+     "y": 325.7,
+     "room": "HALLWAY"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1657.7,
+     "y": 314.3,
+     "room": "HALLWAY"
+    },
+    {
+     "type": "switch_3way_dimmer",
+     "x": 1657.7,
+     "y": 333.6,
+     "room": "HALLWAY"
+    },
+    {
+     "type": "iaq_fan",
+     "x": 1550.2,
+     "y": 375.2,
+     "room": "LNDRY"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 1537.5,
+     "y": 406.8,
+     "room": "LNDRY"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1558.2,
+     "y": 408,
+     "room": "LNDRY"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1547.7,
+     "y": 486.4,
+     "room": "WALK-IN CLOSET"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 1671.8,
+     "y": 369.5,
+     "room": "BED 1"
+    },
+    {
+     "type": "switch_fan",
+     "x": 1681.4,
+     "y": 369.5,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1710.5,
+     "y": 369.5,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle",
+     "x": 1744.8,
+     "y": 369.5,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1792.5,
+     "y": 385.5,
+     "room": "BED 1"
+    },
+    {
+     "type": "smoke_detector",
+     "x": 1636.6,
+     "y": 382.5,
+     "room": "BED 1"
+    },
+    {
+     "type": "ceiling_fan",
+     "x": 1710,
+     "y": 459.5,
+     "room": "BED 1"
+    },
+    {
+     "type": "switch",
+     "x": 1613.9,
+     "y": 517.7,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1624.1,
+     "y": 539.8,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1794.1,
+     "y": 536.4,
+     "room": "BED 1"
+    },
+    {
+     "type": "receptacle_gfi",
+     "x": 1373.2,
+     "y": 440.9,
+     "room": "BATH 1"
+    },
+    {
+     "type": "light_wall",
+     "x": 1371.8,
+     "y": 461.4,
+     "room": "BATH 1"
+    },
+    {
+     "type": "exhaust_fan",
+     "x": 1423.4,
+     "y": 444.3,
+     "room": "BATH 1"
+    },
+    {
+     "type": "light_recessed",
+     "x": 1450,
+     "y": 468.2,
+     "room": "BATH 1"
+    },
+    {
+     "type": "switch_vacancy",
+     "x": 1487.5,
+     "y": 518.6,
+     "room": "BATH 1"
+    },
+    {
+     "type": "switch_fan",
+     "x": 1487.5,
+     "y": 530.7,
+     "room": "BATH 1"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 1487.5,
+     "y": 539.1,
+     "room": "BATH 1"
+    },
+    {
+     "type": "receptacle",
+     "x": 1204.8,
+     "y": 384.5,
+     "room": "OPTIONAL BED 3"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1165.5,
+     "y": 394.3,
+     "room": "OPTIONAL BED 3"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1165.5,
+     "y": 533.4,
+     "room": "OPTIONAL BED 3"
+    },
+    {
+     "type": "ceiling_fan",
+     "x": 1230.9,
+     "y": 460.2,
+     "room": "OPTIONAL BED 3"
+    },
+    {
+     "type": "switch_dimmer",
+     "x": 1282.3,
+     "y": 384.5,
+     "room": "OPTIONAL BED 3"
+    },
+    {
+     "type": "switch_fan",
+     "x": 1291.4,
+     "y": 384.5,
+     "room": "OPTIONAL BED 3"
+    },
+    {
+     "type": "smoke_detector",
+     "x": 1318.6,
+     "y": 393.2,
+     "room": "OPTIONAL BED 3"
+    },
+    {
+     "type": "receptacle_afi",
+     "x": 1295.2,
+     "y": 538.2,
+     "room": "OPTIONAL BED 3"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 1391.4,
+     "y": 384.5,
+     "room": "OPTIONAL BED 3"
+    },
+    {
+     "type": "light_wall_exterior",
+     "x": 1065,
+     "y": 388,
+     "room": "Exterior"
+    },
+    {
+     "type": "receptacle_gfi_wp",
+     "x": 1135.5,
+     "y": 394.3,
+     "room": "Exterior"
+    },
+    {
+     "type": "receptacle_gfi_wp",
+     "x": 1795.5,
+     "y": 97.7,
+     "room": "Exterior"
+    },
+    {
+     "type": "receptacle_240v",
+     "x": 1822.7,
+     "y": 296.4,
+     "room": "Exterior"
+    },
+    {
+     "type": "receptacle_gfi_wp",
+     "x": 1345,
+     "y": 569.1,
+     "room": "Exterior"
+    }
+   ],
+   "counts": {
+    "LIVING": {
+     "light_recessed": 6,
+     "receptacle_afi": 4,
+     "smoke_co": 1,
+     "switch_3way_dimmer": 1,
+     "switch_sensor": 1
+    },
+    "TOTAL": {
+     "ceiling_fan": 3,
+     "exhaust_fan": 3,
+     "iaq_fan": 1,
+     "light_recessed": 18,
+     "light_wall": 2,
+     "light_wall_exterior": 1,
+     "receptacle": 4,
+     "receptacle_240v": 4,
+     "receptacle_afi": 17,
+     "receptacle_gfi": 10,
+     "receptacle_gfi_dw": 1,
+     "receptacle_gfi_mw": 1,
+     "receptacle_gfi_wp": 3,
+     "receptacle_half_hot": 1,
+     "smoke_co": 2,
+     "smoke_detector": 3,
+     "switch": 3,
+     "switch_3way_dimmer": 4,
+     "switch_dimmer": 6,
+     "switch_fan": 6,
+     "switch_sensor": 1,
+     "switch_vacancy": 2
+    },
+    "KITCHEN": {
+     "exhaust_fan": 1,
+     "light_recessed": 7,
+     "receptacle": 1,
+     "receptacle_240v": 1,
+     "receptacle_afi": 1,
+     "receptacle_gfi": 7,
+     "receptacle_gfi_dw": 1,
+     "receptacle_gfi_mw": 1,
+     "receptacle_half_hot": 1,
+     "switch": 1,
+     "switch_3way_dimmer": 2,
+     "switch_dimmer": 1,
+     "switch_fan": 1
+    },
+    "BATH 2": {
+     "exhaust_fan": 1,
+     "light_recessed": 1,
+     "receptacle_gfi": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1,
+     "switch_vacancy": 1
+    },
+    "BED 2": {
+     "ceiling_fan": 1,
+     "receptacle": 1,
+     "receptacle_afi": 4,
+     "smoke_detector": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1
+    },
+    "HALLWAY": {
+     "light_recessed": 2,
+     "light_wall": 1,
+     "receptacle_afi": 1,
+     "smoke_co": 1,
+     "switch": 1,
+     "switch_3way_dimmer": 1
+    },
+    "LNDRY": {
+     "iaq_fan": 1,
+     "receptacle_240v": 1,
+     "receptacle_gfi": 1
+    },
+    "WALK-IN CLOSET": {
+     "light_recessed": 1
+    },
+    "BED 1": {
+     "ceiling_fan": 1,
+     "receptacle": 1,
+     "receptacle_afi": 4,
+     "smoke_detector": 1,
+     "switch": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1
+    },
+    "BATH 1": {
+     "exhaust_fan": 1,
+     "light_recessed": 1,
+     "light_wall": 1,
+     "receptacle_gfi": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1,
+     "switch_vacancy": 1
+    },
+    "OPTIONAL BED 3": {
+     "ceiling_fan": 1,
+     "receptacle": 1,
+     "receptacle_240v": 1,
+     "receptacle_afi": 3,
+     "smoke_detector": 1,
+     "switch_dimmer": 1,
+     "switch_fan": 1
+    },
+    "Exterior": {
+     "light_wall_exterior": 1,
+     "receptacle_240v": 1,
+     "receptacle_gfi_wp": 3
+    }
+   }
+  }
+ ]
+}

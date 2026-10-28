@@ -1,0 +1,27 @@
+{
+ "text": "{\"is_electrical_plan\":true,\"problem\":\"\",\"sheet_id\":\"E1\",\"plan\":{\"x0\":0.178,\"y0\":0.1,\"x1\":0.33,\"y1\":0.385},\"legend\":{\"x0\":0.424,\"y0\":0.079,\"x1\":0.557,\"y1\":0.376}}",
+ "model": "claude-opus-5-5",
+ "backend": "cli",
+ "seconds": 11.3,
+ "cost_usd": 0.2222346,
+ "replayed": false,
+ "input_tokens": 99592,
+ "output_tokens": 406,
+ "data": {
+  "is_electrical_plan": true,
+  "problem": "",
+  "sheet_id": "E1",
+  "plan": {
+   "x0": 0.178,
+   "y0": 0.1,
+   "x1": 0.33,
+   "y1": 0.385
+  },
+  "legend": {
+   "x0": 0.424,
+   "y0": 0.079,
+   "x1": 0.557,
+   "y1": 0.376
+  }
+ }
+}

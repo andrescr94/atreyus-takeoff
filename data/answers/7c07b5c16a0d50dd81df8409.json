@@ -1,0 +1,567 @@
+{
+ "text": "{\"devices\":[{\"type\":\"receptacle_gfi_wp\",\"x\":0.103,\"y\":0.072,\"room\":\"Exterior\",\"confidence\":0.9},{\"type\":\"receptacle_240v\",\"x\":0.434,\"y\":0.072,\"room\":\"Exterior\",\"confidence\":0.85},{\"type\":\"light_wall_exterior\",\"x\":0.396,\"y\":0.889,\"room\":\"Exterior\",\"confidence\":0.9},{\"type\":\"light_wall_exterior\",\"x\":0.558,\"y\":0.889,\"room\":\"Exterior\",\"confidence\":0.9},{\"type\":\"receptacle_gfi_wp\",\"x\":0.613,\"y\":0.89,\"room\":\"Exterior\",\"confidence\":0.9},{\"type\":\"receptacle_afi\",\"x\":0.092,\"y\":0.112,\"room\":\"Bed 2\",\"confidence\":0.9},{\"type\":\"receptacle_afi\",\"x\":0.33,\"y\":0.112,\"room\":\"Bed 2\",\"confidence\":0.9},{\"type\":\"receptacle_afi\",\"x\":0.064,\"y\":0.315,\"room\":\"Bed 2\",\"confidence\":0.9},{\"type\":\"receptacle\",\"x\":0.122,\"y\":0.334,\"room\":\"Bed 2\",\"confidence\":0.8},{\"type\":\"receptacle_afi\",\"x\":0.249,\"y\":0.334,\"room\":\"Bed 2\",\"confidence\":0.9},{\"type\":\"ceiling_fan\",\"x\":0.204,\"y\":0.212,\"room\":\"Bed 2\",\"confidence\":0.9},{\"type\":\"switch_fan\",\"x\":0.358,\"y\":0.252,\"room\":\"Bed 2\",\"confidence\":0.8},{\"type\":\"switch_dimmer\",\"x\":0.358,\"y\":0.264,\"room\":\"Bed 2\",\"confidence\":0.8},{\"type\":\"switch_3way_dimmer\",\"x\":0.429,\"y\":0.27,\"room\":\"Hall\",\"confidence\":0.85},{\"type\":\"smoke_detector\",\"x\":0.325,\"y\":0.303,\"room\":\"Hall\",\"confidence\":0.85},{\"type\":\"smoke_detector\",\"x\":0.572,\"y\":0.303,\"room\":\"Hall\",\"confidence\":0.85},{\"type\":\"light_recessed\",\"x\":0.449,\"y\":0.304,\"room\":\"Hall\",\"confidence\":0.9},{\"type\":\"smoke_co\",\"x\":0.449,\"y\":0.393,\"room\":\"Hall\",\"confidence\":0.85},{\"type\":\"light_recessed\",\"x\":0.449,\"y\":0.429,\"room\":\"Hall\",\"confidence\":0.9},{\"type\":\"light_wall\",\"x\":0.439,\"y\":0.498,\"room\":\"Hall\",\"confidence\":0.5},{\"type\":\"receptacle_afi\",\"x\":0.711,\"y\":0.112,\"room\":\"Bed 1\",\"confidence\":0.9},{\"type\":\"receptacle_afi\",\"x\":0.888,\"y\":0.127,\"room\":\"Bed 1\",\"confidence\":0.9},{\"type\":\"receptacle_afi\",\"x\":0.888,\"y\":0.315,\"room\":\"Bed 1\",\"confidence\":0.9},{\"type\":\"receptacle_afi\",\"x\":0.764,\"y\":0.334,\"room\":\"Bed 1\",\"confidence\":0.9},{\"type\":\"receptacle\",\"x\":0.831,\"y\":0.334,\"room\":\"Bed 1\",\"confidence\":0.8},{\"type\":\"ceiling_fan\",\"x\":0.723,\"y\":0.212,\"room\":\"Bed 1\",\"confidence\":0.9},{\"type\":\"switch_fan\",\"x\":0.569,\"y\":0.244,\"room\":\"Bed 1\",\"confidence\":0.8},{\"type\":\"switch_dimmer\",\"x\":0.569,\"y\":0.256,\"room\":\"Bed 1\",\"confidence\":0.8},{\"type\":\"switch_vacancy\",\"x\":0.763,\"y\":0.369,\"room\":\"Bath 1\",\"confidence\":0.85},{\"type\":\"switch_fan\",\"x\":0.782,\"y\":0.369,\"room\":\"Bath 1\",\"confidence\":0.85},{\"type\":\"switch_dimmer\",\"x\":0.801,\"y\":0.369,\"room\":\"Bath 1\",\"confidence\":0.85},{\"type\":\"receptacle_gfi\",\"x\":0.83,\"y\":0.369,\"room\":\"Bath 1\",\"confidence\":0.85},{\"type\":\"exhaust_fan\",\"x\":0.769,\"y\":0.47,\"room\":\"Bath 1\",\"confidence\":0.9},{\"type\":\"light_recessed\",\"x\":0.72,\"y\":0.544,\"room\":\"Bath 1\",\"confidence\":0.75},{\"type\":\"receptacle_240v\",\"x\":0.83,\"y\":0.564,\"room\":\"Bath 1\",\"confidence\":0.6},{\"type\":\"exhaust_fan\",\"x\":0.164,\"y\":0.391,\"room\":\"Bath 2\",\"confidence\":0.9},{\"type\":\"light_recessed\",\"x\":0.093,\"y\":0.414,\"room\":\"Bath 2\",\"confidence\":0.75},{\"type\":\"receptacle_gfi\",\"x\":0.262,\"y\":0.47,\"room\":\"Bath 2\",\"confidence\":0.85},{\"type\":\"switch_vacancy\",\"x\":0.358,\"y\":0.44,\"room\":\"Bath 2\",\"confidence\":0.8},{\"type\":\"switch_fan\",\"x\":0.358,\"y\":0.452,\"room\":\"Bath 2\",\"confidence\":0.8},{\"type\":\"switch_dimmer\",\"x\":0.358,\"y\":0.47,\"room\":\"Bath 2\",\"confidence\":0.8},{\"type\":\"iaq_fan\",\"x\":0.54,\"y\":0.425,\"room\":\"Lndry\",\"confidence\":0.85},{\"type\":\"receptacle_gfi\",\"x\":0.604,\"y\":0.404,\"room\":\"Lndry\",\"confidence\":0.85},{\"type\":\"receptacle_240v\",\"x\":0.604,\"y\":0.465,\"room\":\"Lndry\",\"confidence\":0.85},{\"type\":\"receptacle_gfi\",\"x\":0.128,\"y\":0.506,\"room\":\"Kitchen / Dining\",\"confidence\":0.85},{\"type\":\"receptacle_gfi_mw\",\"x\":0.168,\"y\":0.505,\"room\":\"Kitchen / Dining\",\"confidence\":0.8},{\"type\":\"receptacle_240v\",\"x\":0.221,\"y\":0.505,\"room\":\"Kitchen / Dining\",\"confidence\":0.8},{\"type\":\"exhaust_fan\",\"x\":0.194,\"y\":0.518,\"room\":\"Kitchen / Dining\",\"confidence\":0.7},{\"type\":\"light_recessed\",\"x\":0.195,\"y\":0.549,\"room\":\"Kitchen / Dining\",\"confidence\":0.85},{\"type\":\"receptacle_gfi\",\"x\":0.331,\"y\":0.506,\"room\":\"Kitchen / Dining\",\"confidence\":0.85},{\"type\":\"switch_fan\",\"x\":0.066,\"y\":0.544,\"room\":\"Kitchen / Dining\",\"confidence\":0.75},{\"type\":\"receptacle_gfi_dw\",\"x\":0.07,\"y\":0.581,\"room\":\"Kitchen / Dining\",\"confidence\":0.8},{\"type\":\"receptacle_gfi\",\"x\":0.066,\"y\":0.605,\"room\":\"Kitchen / Dining\",\"confidence\":0.85},{\"type\":\"light_recessed\",\"x\":0.117,\"y\":0.607,\"room\":\"Kitchen / Dining\",\"confidence\":0.9},{\"type\":\"receptacle_half_hot\",\"x\":0.066,\"y\":0.656,\"room\":\"Kitchen / Dining\",\"confidence\":0.6},{\"type\":\"switch\",\"x\":0.066,\"y\":0.697,\"room\":\"Kitchen / Dining\",\"confidence\":0.65},{\"type\":\"receptacle_gfi\",\"x\":0.066,\"y\":0.731,\"room\":\"Kitchen / Dining\",\"confidence\":0.85},{\"type\":\"light_recessed\",\"x\":0.117,\"y\":0.719,\"room\":\"Kitchen / Dining\",\"confidence\":0.9},{\"type\":\"switch_3way_dimmer\",\"x\":0.125,\"y\":0.764,\"room\":\"Kitchen / Dining\",\"confidence\":0.8},{\"type\":\"light_recessed\",\"x\":0.23,\"y\":0.657,\"room\":\"Kitchen / Dining\",\"confidence\":0.9},{\"type\":\"light_recessed\",\"x\":0.23,\"y\":0.79,\"room\":\"Kitchen / Dining\",\"confidence\":0.9},{\"type\":\"smoke_co\",\"x\":0.41,\"y\":0.643,\"room\":\"Kitchen / Dining\",\"confidence\":0.8},{\"type\":\"receptacle_afi\",\"x\":0.335,\"y\":0.85,\"room\":\"Kitchen / Dining\",\"confidence\":0.9},{\"type\":\"switch_3way_dimmer\",\"x\":0.397,\"y\":0.852,\"room\":\"Living\",\"confidence\":0.8},{\"type\":\"switch_sensor\",\"x\":0.417,\"y\":0.852,\"room\":\"Living\",\"confidence\":0.8},{\"type\":\"switch_3way_dimmer\",\"x\":0.518,\"y\":0.599,\"room\":\"Living\",\"confidence\":0.85},{\"type\":\"switch_3way_dimmer\",\"x\":0.535,\"y\":0.599,\"room\":\"Living\",\"confidence\":0.85},{\"type\":\"switch_3way_dimmer\",\"x\":0.551,\"y\":0.599,\"room\":\"Living\",\"confidence\":0.85},{\"type\":\"receptacle_afi\",\"x\":0.588,\"y\":0.599,\"room\":\"Living\",\"confidence\":0.9},{\"type\":\"receptacle\",\"x\":0.651,\"y\":0.599,\"room\":\"Living\",\"confidence\":0.8},{\"type\":\"receptacle_afi\",\"x\":0.769,\"y\":0.6,\"room\":\"Living\",\"confidence\":0.9},{\"type\":\"receptacle_afi\",\"x\":0.888,\"y\":0.62,\"room\":\"Living\",\"confidence\":0.9},{\"type\":\"light_recessed\",\"x\":0.505,\"y\":0.657,\"room\":\"Living\",\"confidence\":0.9},{\"type\":\"light_recessed\",\"x\":0.779,\"y\":0.657,\"room\":\"Living\",\"confidence\":0.9},{\"type\":\"light_recessed\",\"x\":0.505,\"y\":0.79,\"room\":\"Living\",\"confidence\":0.9},{\"type\":\"light_recessed\",\"x\":0.779,\"y\":0.79,\"room\":\"Living\",\"confidence\":0.9},{\"type\":\"receptacle_afi\",\"x\":0.888,\"y\":0.819,\"room\":\"Living\",\"confidence\":0.9},{\"type\":\"receptacle_afi\",\"x\":0.575,\"y\":0.85,\"room\":\"Living\",\"confidence\":0.9},{\"type\":\"receptacle_afi\",\"x\":0.861,\"y\":0.85,\"room\":\"Living\",\"confidence\":0.9}]}",
+ "model": "claude-opus-5-5",
+ "backend": "cli",
+ "seconds": 50.6,
+ "cost_usd": 0.3719416,
+ "replayed": false,
+ "input_tokens": 104304,
+ "output_tokens": 6239,
+ "data": {
+  "devices": [
+   {
+    "type": "receptacle_gfi_wp",
+    "x": 0.103,
+    "y": 0.072,
+    "room": "Exterior",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle_240v",
+    "x": 0.434,
+    "y": 0.072,
+    "room": "Exterior",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_wall_exterior",
+    "x": 0.396,
+    "y": 0.889,
+    "room": "Exterior",
+    "confidence": 0.9
+   },
+   {
+    "type": "light_wall_exterior",
+    "x": 0.558,
+    "y": 0.889,
+    "room": "Exterior",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle_gfi_wp",
+    "x": 0.613,
+    "y": 0.89,
+    "room": "Exterior",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.092,
+    "y": 0.112,
+    "room": "Bed 2",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.33,
+    "y": 0.112,
+    "room": "Bed 2",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.064,
+    "y": 0.315,
+    "room": "Bed 2",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle",
+    "x": 0.122,
+    "y": 0.334,
+    "room": "Bed 2",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.249,
+    "y": 0.334,
+    "room": "Bed 2",
+    "confidence": 0.9
+   },
+   {
+    "type": "ceiling_fan",
+    "x": 0.204,
+    "y": 0.212,
+    "room": "Bed 2",
+    "confidence": 0.9
+   },
+   {
+    "type": "switch_fan",
+    "x": 0.358,
+    "y": 0.252,
+    "room": "Bed 2",
+    "confidence": 0.8
+   },
+   {
+    "type": "switch_dimmer",
+    "x": 0.358,
+    "y": 0.264,
+    "room": "Bed 2",
+    "confidence": 0.8
+   },
+   {
+    "type": "switch_3way_dimmer",
+    "x": 0.429,
+    "y": 0.27,
+    "room": "Hall",
+    "confidence": 0.85
+   },
+   {
+    "type": "smoke_detector",
+    "x": 0.325,
+    "y": 0.303,
+    "room": "Hall",
+    "confidence": 0.85
+   },
+   {
+    "type": "smoke_detector",
+    "x": 0.572,
+    "y": 0.303,
+    "room": "Hall",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.449,
+    "y": 0.304,
+    "room": "Hall",
+    "confidence": 0.9
+   },
+   {
+    "type": "smoke_co",
+    "x": 0.449,
+    "y": 0.393,
+    "room": "Hall",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.449,
+    "y": 0.429,
+    "room": "Hall",
+    "confidence": 0.9
+   },
+   {
+    "type": "light_wall",
+    "x": 0.439,
+    "y": 0.498,
+    "room": "Hall",
+    "confidence": 0.5
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.711,
+    "y": 0.112,
+    "room": "Bed 1",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.888,
+    "y": 0.127,
+    "room": "Bed 1",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.888,
+    "y": 0.315,
+    "room": "Bed 1",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.764,
+    "y": 0.334,
+    "room": "Bed 1",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle",
+    "x": 0.831,
+    "y": 0.334,
+    "room": "Bed 1",
+    "confidence": 0.8
+   },
+   {
+    "type": "ceiling_fan",
+    "x": 0.723,
+    "y": 0.212,
+    "room": "Bed 1",
+    "confidence": 0.9
+   },
+   {
+    "type": "switch_fan",
+    "x": 0.569,
+    "y": 0.244,
+    "room": "Bed 1",
+    "confidence": 0.8
+   },
+   {
+    "type": "switch_dimmer",
+    "x": 0.569,
+    "y": 0.256,
+    "room": "Bed 1",
+    "confidence": 0.8
+   },
+   {
+    "type": "switch_vacancy",
+    "x": 0.763,
+    "y": 0.369,
+    "room": "Bath 1",
+    "confidence": 0.85
+   },
+   {
+    "type": "switch_fan",
+    "x": 0.782,
+    "y": 0.369,
+    "room": "Bath 1",
+    "confidence": 0.85
+   },
+   {
+    "type": "switch_dimmer",
+    "x": 0.801,
+    "y": 0.369,
+    "room": "Bath 1",
+    "confidence": 0.85
+   },
+   {
+    "type": "receptacle_gfi",
+    "x": 0.83,
+    "y": 0.369,
+    "room": "Bath 1",
+    "confidence": 0.85
+   },
+   {
+    "type": "exhaust_fan",
+    "x": 0.769,
+    "y": 0.47,
+    "room": "Bath 1",
+    "confidence": 0.9
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.72,
+    "y": 0.544,
+    "room": "Bath 1",
+    "confidence": 0.75
+   },
+   {
+    "type": "receptacle_240v",
+    "x": 0.83,
+    "y": 0.564,
+    "room": "Bath 1",
+    "confidence": 0.6
+   },
+   {
+    "type": "exhaust_fan",
+    "x": 0.164,
+    "y": 0.391,
+    "room": "Bath 2",
+    "confidence": 0.9
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.093,
+    "y": 0.414,
+    "room": "Bath 2",
+    "confidence": 0.75
+   },
+   {
+    "type": "receptacle_gfi",
+    "x": 0.262,
+    "y": 0.47,
+    "room": "Bath 2",
+    "confidence": 0.85
+   },
+   {
+    "type": "switch_vacancy",
+    "x": 0.358,
+    "y": 0.44,
+    "room": "Bath 2",
+    "confidence": 0.8
+   },
+   {
+    "type": "switch_fan",
+    "x": 0.358,
+    "y": 0.452,
+    "room": "Bath 2",
+    "confidence": 0.8
+   },
+   {
+    "type": "switch_dimmer",
+    "x": 0.358,
+    "y": 0.47,
+    "room": "Bath 2",
+    "confidence": 0.8
+   },
+   {
+    "type": "iaq_fan",
+    "x": 0.54,
+    "y": 0.425,
+    "room": "Lndry",
+    "confidence": 0.85
+   },
+   {
+    "type": "receptacle_gfi",
+    "x": 0.604,
+    "y": 0.404,
+    "room": "Lndry",
+    "confidence": 0.85
+   },
+   {
+    "type": "receptacle_240v",
+    "x": 0.604,
+    "y": 0.465,
+    "room": "Lndry",
+    "confidence": 0.85
+   },
+   {
+    "type": "receptacle_gfi",
+    "x": 0.128,
+    "y": 0.506,
+    "room": "Kitchen / Dining",
+    "confidence": 0.85
+   },
+   {
+    "type": "receptacle_gfi_mw",
+    "x": 0.168,
+    "y": 0.505,
+    "room": "Kitchen / Dining",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle_240v",
+    "x": 0.221,
+    "y": 0.505,
+    "room": "Kitchen / Dining",
+    "confidence": 0.8
+   },
+   {
+    "type": "exhaust_fan",
+    "x": 0.194,
+    "y": 0.518,
+    "room": "Kitchen / Dining",
+    "confidence": 0.7
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.195,
+    "y": 0.549,
+    "room": "Kitchen / Dining",
+    "confidence": 0.85
+   },
+   {
+    "type": "receptacle_gfi",
+    "x": 0.331,
+    "y": 0.506,
+    "room": "Kitchen / Dining",
+    "confidence": 0.85
+   },
+   {
+    "type": "switch_fan",
+    "x": 0.066,
+    "y": 0.544,
+    "room": "Kitchen / Dining",
+    "confidence": 0.75
+   },
+   {
+    "type": "receptacle_gfi_dw",
+    "x": 0.07,
+    "y": 0.581,
+    "room": "Kitchen / Dining",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle_gfi",
+    "x": 0.066,
+    "y": 0.605,
+    "room": "Kitchen / Dining",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.117,
+    "y": 0.607,
+    "room": "Kitchen / Dining",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle_half_hot",
+    "x": 0.066,
+    "y": 0.656,
+    "room": "Kitchen / Dining",
+    "confidence": 0.6
+   },
+   {
+    "type": "switch",
+    "x": 0.066,
+    "y": 0.697,
+    "room": "Kitchen / Dining",
+    "confidence": 0.65
+   },
+   {
+    "type": "receptacle_gfi",
+    "x": 0.066,
+    "y": 0.731,
+    "room": "Kitchen / Dining",
+    "confidence": 0.85
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.117,
+    "y": 0.719,
+    "room": "Kitchen / Dining",
+    "confidence": 0.9
+   },
+   {
+    "type": "switch_3way_dimmer",
+    "x": 0.125,
+    "y": 0.764,
+    "room": "Kitchen / Dining",
+    "confidence": 0.8
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.23,
+    "y": 0.657,
+    "room": "Kitchen / Dining",
+    "confidence": 0.9
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.23,
+    "y": 0.79,
+    "room": "Kitchen / Dining",
+    "confidence": 0.9
+   },
+   {
+    "type": "smoke_co",
+    "x": 0.41,
+    "y": 0.643,
+    "room": "Kitchen / Dining",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.335,
+    "y": 0.85,
+    "room": "Kitchen / Dining",
+    "confidence": 0.9
+   },
+   {
+    "type": "switch_3way_dimmer",
+    "x": 0.397,
+    "y": 0.852,
+    "room": "Living",
+    "confidence": 0.8
+   },
+   {
+    "type": "switch_sensor",
+    "x": 0.417,
+    "y": 0.852,
+    "room": "Living",
+    "confidence": 0.8
+   },
+   {
+    "type": "switch_3way_dimmer",
+    "x": 0.518,
+    "y": 0.599,
+    "room": "Living",
+    "confidence": 0.85
+   },
+   {
+    "type": "switch_3way_dimmer",
+    "x": 0.535,
+    "y": 0.599,
+    "room": "Living",
+    "confidence": 0.85
+   },
+   {
+    "type": "switch_3way_dimmer",
+    "x": 0.551,
+    "y": 0.599,
+    "room": "Living",
+    "confidence": 0.85
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.588,
+    "y": 0.599,
+    "room": "Living",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle",
+    "x": 0.651,
+    "y": 0.599,
+    "room": "Living",
+    "confidence": 0.8
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.769,
+    "y": 0.6,
+    "room": "Living",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.888,
+    "y": 0.62,
+    "room": "Living",
+    "confidence": 0.9
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.505,
+    "y": 0.657,
+    "room": "Living",
+    "confidence": 0.9
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.779,
+    "y": 0.657,
+    "room": "Living",
+    "confidence": 0.9
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.505,
+    "y": 0.79,
+    "room": "Living",
+    "confidence": 0.9
+   },
+   {
+    "type": "light_recessed",
+    "x": 0.779,
+    "y": 0.79,
+    "room": "Living",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.888,
+    "y": 0.819,
+    "room": "Living",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.575,
+    "y": 0.85,
+    "room": "Living",
+    "confidence": 0.9
+   },
+   {
+    "type": "receptacle_afi",
+    "x": 0.861,
+    "y": 0.85,
+    "room": "Living",
+    "confidence": 0.9
+   }
+  ]
+ }
+}

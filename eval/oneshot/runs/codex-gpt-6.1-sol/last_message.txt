@@ -1,0 +1,3 @@
+Created [result.json](result.json) with 304 devices across all four sheets, including PDF coordinates, room assignments, and validated counts.
+
+[notes.md](notes.md) explains the method and uncertainties.

@@ -1,0 +1,15 @@
+{
+ "agent": "claude",
+ "model": "claude-fable-5-1",
+ "started": "2026-10-28T11:34:22-06:00",
+ "seconds": 1515,
+ "exit_code": 0,
+ "result_written": true,
+ "turns": 83,
+ "cost_usd": 13.953113499999999,
+ "input_tokens": 14223971,
+ "output_tokens": 100100,
+ "models": [
+  "claude-fable-5-1"
+ ]
+}
